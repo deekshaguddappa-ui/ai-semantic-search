@@ -1,0 +1,1 @@
+Vector databases store embeddings and enable semantic search based on meaning.
